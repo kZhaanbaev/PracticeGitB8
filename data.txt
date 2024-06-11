@@ -4,4 +4,6 @@ This is a second remote change
 
 This is my first change from local repo
 
+This is my second change from local repo
+
 This is my second change from REMOTE repo/github
