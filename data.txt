@@ -8,4 +8,4 @@ This is my second change from local repo
 
 This is my second change from REMOTE repo/github
 
-This is branch test change from REMOTE
+Changes from my branch /kuba/ ----
