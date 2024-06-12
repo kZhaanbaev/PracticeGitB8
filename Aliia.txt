@@ -1,6 +1,7 @@
 First message
 
-<<<<<<< HEAD
-=======
+Aliia's message 1
+Hello
+
 Kuba's message 1
 >>>>>>> e1112e75a41d24d9b3fd375d0f0fe60cf62e4644
