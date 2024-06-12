@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 Hello,World
 
 Kuba: Hello Altan
+=======
+Hello,World!
+
+Ni hao!
+>>>>>>> 74fb9b4 (Test)
