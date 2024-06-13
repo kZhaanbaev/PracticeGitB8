@@ -4,4 +4,6 @@ Aliia's message 1
 I want to hang out with my friends
 
 Kuba's message 1
->>>>>>> e1112e75a41d24d9b3fd375d0f0fe60cf62e4644
+e1112e75a41d24d9b3fd375d0f0fe60cf62e4644
+
+June 13
