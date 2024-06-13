@@ -9,3 +9,5 @@ This is my second change from local repo
 This is my second change from REMOTE repo/github
 
 Changes from my branch /kuba/ ----
+
+June 13th - message
